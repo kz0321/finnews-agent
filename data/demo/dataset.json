@@ -1,0 +1,1589 @@
+{
+  "schema_version": 1,
+  "dataset_kind": "synthetic_demo",
+  "description": "Self-authored fictional fixtures for software acceptance. Not real market evidence, not the proposed human-scored financial benchmark.",
+  "license": "MIT (self-authored text)",
+  "sources": [
+    {
+      "id": "demo-aapl-background",
+      "company": "AAPL",
+      "url": "https://example.com/finnews-synthetic/demo-aapl-background",
+      "title": "Fictional Apple background",
+      "text": "Synthetic classroom scenario for AAPL; all figures are fictional. On June 15, 2025, the scenario's Apple board approved an annual research budget of 4 million US dollars. This background decision predates the later monthly operating updates.",
+      "published_at": "2025-06-15",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-aapl-2025-07",
+      "company": "AAPL",
+      "url": "https://example.com/finnews-synthetic/demo-aapl-2025-07",
+      "title": "Fictional Apple monthly update 07/2025",
+      "text": "Synthetic classroom scenario for AAPL; all figures and events are fictional. In the fictional Apple scenario, revenue for the month ended 2025-07-09 was 117 million US dollars, compared with 109 million US dollars in the prior month. Operating profit for that same fictional monthly period was 18 million US dollars. The scenario update, published on 2025-07-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-07-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-aapl-2025-08",
+      "company": "AAPL",
+      "url": "https://example.com/finnews-synthetic/demo-aapl-2025-08",
+      "title": "Fictional Apple monthly update 08/2025",
+      "text": "Synthetic classroom scenario for AAPL; all figures and events are fictional. In the fictional Apple scenario, revenue for the month ended 2025-08-09 was 118 million US dollars, compared with 110 million US dollars in the prior month. Operating profit for that same fictional monthly period was 19 million US dollars. The scenario update, published on 2025-08-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-08-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-aapl-2025-09",
+      "company": "AAPL",
+      "url": "https://example.com/finnews-synthetic/demo-aapl-2025-09",
+      "title": "Fictional Apple monthly update 09/2025",
+      "text": "Synthetic classroom scenario for AAPL; all figures and events are fictional. In the fictional Apple scenario, revenue for the month ended 2025-09-09 was 119 million US dollars, compared with 111 million US dollars in the prior month. Operating profit for that same fictional monthly period was 20 million US dollars. The scenario update, published on 2025-09-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-09-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-aapl-2025-10",
+      "company": "AAPL",
+      "url": "https://example.com/finnews-synthetic/demo-aapl-2025-10",
+      "title": "Fictional Apple monthly update 10/2025",
+      "text": "Synthetic classroom scenario for AAPL; all figures and events are fictional. In the fictional Apple scenario, revenue for the month ended 2025-10-09 was 120 million US dollars, compared with 112 million US dollars in the prior month. Operating profit for that same fictional monthly period was 21 million US dollars. The scenario update, published on 2025-10-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-10-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-aapl-2025-11",
+      "company": "AAPL",
+      "url": "https://example.com/finnews-synthetic/demo-aapl-2025-11",
+      "title": "Fictional Apple monthly update 11/2025",
+      "text": "Synthetic classroom scenario for AAPL; all figures and events are fictional. In the fictional Apple scenario, revenue for the month ended 2025-11-09 was 121 million US dollars, compared with 113 million US dollars in the prior month. Operating profit for that same fictional monthly period was 22 million US dollars. The scenario update, published on 2025-11-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-11-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-aapl-undated",
+      "company": "AAPL",
+      "url": "https://example.com/finnews-synthetic/demo-aapl-undated",
+      "title": "Fictional undated Apple note",
+      "text": "Synthetic classroom scenario for AAPL; this passage is fictional and undated. An undated note claims that Apple might increase deliveries. The note does not establish when an announcement or event occurred.",
+      "published_at": null,
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-msft-background",
+      "company": "MSFT",
+      "url": "https://example.com/finnews-synthetic/demo-msft-background",
+      "title": "Fictional Microsoft background",
+      "text": "Synthetic classroom scenario for MSFT; all figures are fictional. On June 15, 2025, the scenario's Microsoft board approved an annual research budget of 5 million US dollars. This background decision predates the later monthly operating updates.",
+      "published_at": "2025-06-15",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-msft-2025-07",
+      "company": "MSFT",
+      "url": "https://example.com/finnews-synthetic/demo-msft-2025-07",
+      "title": "Fictional Microsoft monthly update 07/2025",
+      "text": "Synthetic classroom scenario for MSFT; all figures and events are fictional. In the fictional Microsoft scenario, revenue for the month ended 2025-07-09 was 127 million US dollars, compared with 119 million US dollars in the prior month. Operating profit for that same fictional monthly period was 19 million US dollars. The scenario update, published on 2025-07-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-07-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-msft-2025-08",
+      "company": "MSFT",
+      "url": "https://example.com/finnews-synthetic/demo-msft-2025-08",
+      "title": "Fictional Microsoft monthly update 08/2025",
+      "text": "Synthetic classroom scenario for MSFT; all figures and events are fictional. In the fictional Microsoft scenario, revenue for the month ended 2025-08-09 was 128 million US dollars, compared with 120 million US dollars in the prior month. Operating profit for that same fictional monthly period was 20 million US dollars. The scenario update, published on 2025-08-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-08-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-msft-2025-09",
+      "company": "MSFT",
+      "url": "https://example.com/finnews-synthetic/demo-msft-2025-09",
+      "title": "Fictional Microsoft monthly update 09/2025",
+      "text": "Synthetic classroom scenario for MSFT; all figures and events are fictional. In the fictional Microsoft scenario, revenue for the month ended 2025-09-09 was 129 million US dollars, compared with 121 million US dollars in the prior month. Operating profit for that same fictional monthly period was 21 million US dollars. The scenario update, published on 2025-09-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-09-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-msft-2025-10",
+      "company": "MSFT",
+      "url": "https://example.com/finnews-synthetic/demo-msft-2025-10",
+      "title": "Fictional Microsoft monthly update 10/2025",
+      "text": "Synthetic classroom scenario for MSFT; all figures and events are fictional. In the fictional Microsoft scenario, revenue for the month ended 2025-10-09 was 130 million US dollars, compared with 122 million US dollars in the prior month. Operating profit for that same fictional monthly period was 22 million US dollars. The scenario update, published on 2025-10-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-10-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-msft-2025-11",
+      "company": "MSFT",
+      "url": "https://example.com/finnews-synthetic/demo-msft-2025-11",
+      "title": "Fictional Microsoft monthly update 11/2025",
+      "text": "Synthetic classroom scenario for MSFT; all figures and events are fictional. In the fictional Microsoft scenario, revenue for the month ended 2025-11-09 was 131 million US dollars, compared with 123 million US dollars in the prior month. Operating profit for that same fictional monthly period was 23 million US dollars. The scenario update, published on 2025-11-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-11-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-msft-undated",
+      "company": "MSFT",
+      "url": "https://example.com/finnews-synthetic/demo-msft-undated",
+      "title": "Fictional undated Microsoft note",
+      "text": "Synthetic classroom scenario for MSFT; this passage is fictional and undated. An undated note claims that Microsoft might increase deliveries. The note does not establish when an announcement or event occurred.",
+      "published_at": null,
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-nvda-background",
+      "company": "NVDA",
+      "url": "https://example.com/finnews-synthetic/demo-nvda-background",
+      "title": "Fictional NVIDIA background",
+      "text": "Synthetic classroom scenario for NVDA; all figures are fictional. On June 15, 2025, the scenario's NVIDIA board approved an annual research budget of 6 million US dollars. This background decision predates the later monthly operating updates.",
+      "published_at": "2025-06-15",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-nvda-2025-07",
+      "company": "NVDA",
+      "url": "https://example.com/finnews-synthetic/demo-nvda-2025-07",
+      "title": "Fictional NVIDIA monthly update 07/2025",
+      "text": "Synthetic classroom scenario for NVDA; all figures and events are fictional. In the fictional NVIDIA scenario, revenue for the month ended 2025-07-09 was 137 million US dollars, compared with 129 million US dollars in the prior month. Operating profit for that same fictional monthly period was 20 million US dollars. The scenario update, published on 2025-07-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-07-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-nvda-2025-08",
+      "company": "NVDA",
+      "url": "https://example.com/finnews-synthetic/demo-nvda-2025-08",
+      "title": "Fictional NVIDIA monthly update 08/2025",
+      "text": "Synthetic classroom scenario for NVDA; all figures and events are fictional. In the fictional NVIDIA scenario, revenue for the month ended 2025-08-09 was 138 million US dollars, compared with 130 million US dollars in the prior month. Operating profit for that same fictional monthly period was 21 million US dollars. The scenario update, published on 2025-08-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-08-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-nvda-2025-09",
+      "company": "NVDA",
+      "url": "https://example.com/finnews-synthetic/demo-nvda-2025-09",
+      "title": "Fictional NVIDIA monthly update 09/2025",
+      "text": "Synthetic classroom scenario for NVDA; all figures and events are fictional. In the fictional NVIDIA scenario, revenue for the month ended 2025-09-09 was 139 million US dollars, compared with 131 million US dollars in the prior month. Operating profit for that same fictional monthly period was 22 million US dollars. The scenario update, published on 2025-09-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-09-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-nvda-2025-10",
+      "company": "NVDA",
+      "url": "https://example.com/finnews-synthetic/demo-nvda-2025-10",
+      "title": "Fictional NVIDIA monthly update 10/2025",
+      "text": "Synthetic classroom scenario for NVDA; all figures and events are fictional. In the fictional NVIDIA scenario, revenue for the month ended 2025-10-09 was 140 million US dollars, compared with 132 million US dollars in the prior month. Operating profit for that same fictional monthly period was 23 million US dollars. The scenario update, published on 2025-10-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-10-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-nvda-2025-11",
+      "company": "NVDA",
+      "url": "https://example.com/finnews-synthetic/demo-nvda-2025-11",
+      "title": "Fictional NVIDIA monthly update 11/2025",
+      "text": "Synthetic classroom scenario for NVDA; all figures and events are fictional. In the fictional NVIDIA scenario, revenue for the month ended 2025-11-09 was 141 million US dollars, compared with 133 million US dollars in the prior month. Operating profit for that same fictional monthly period was 24 million US dollars. The scenario update, published on 2025-11-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-11-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-nvda-undated",
+      "company": "NVDA",
+      "url": "https://example.com/finnews-synthetic/demo-nvda-undated",
+      "title": "Fictional undated NVIDIA note",
+      "text": "Synthetic classroom scenario for NVDA; this passage is fictional and undated. An undated note claims that NVIDIA might increase deliveries. The note does not establish when an announcement or event occurred.",
+      "published_at": null,
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-amzn-background",
+      "company": "AMZN",
+      "url": "https://example.com/finnews-synthetic/demo-amzn-background",
+      "title": "Fictional Amazon background",
+      "text": "Synthetic classroom scenario for AMZN; all figures are fictional. On June 15, 2025, the scenario's Amazon board approved an annual research budget of 7 million US dollars. This background decision predates the later monthly operating updates.",
+      "published_at": "2025-06-15",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-amzn-2025-07",
+      "company": "AMZN",
+      "url": "https://example.com/finnews-synthetic/demo-amzn-2025-07",
+      "title": "Fictional Amazon monthly update 07/2025",
+      "text": "Synthetic classroom scenario for AMZN; all figures and events are fictional. In the fictional Amazon scenario, revenue for the month ended 2025-07-09 was 147 million US dollars, compared with 139 million US dollars in the prior month. Operating profit for that same fictional monthly period was 21 million US dollars. The scenario update, published on 2025-07-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-07-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-amzn-2025-08",
+      "company": "AMZN",
+      "url": "https://example.com/finnews-synthetic/demo-amzn-2025-08",
+      "title": "Fictional Amazon monthly update 08/2025",
+      "text": "Synthetic classroom scenario for AMZN; all figures and events are fictional. In the fictional Amazon scenario, revenue for the month ended 2025-08-09 was 148 million US dollars, compared with 140 million US dollars in the prior month. Operating profit for that same fictional monthly period was 22 million US dollars. The scenario update, published on 2025-08-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-08-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-amzn-2025-09",
+      "company": "AMZN",
+      "url": "https://example.com/finnews-synthetic/demo-amzn-2025-09",
+      "title": "Fictional Amazon monthly update 09/2025",
+      "text": "Synthetic classroom scenario for AMZN; all figures and events are fictional. In the fictional Amazon scenario, revenue for the month ended 2025-09-09 was 149 million US dollars, compared with 141 million US dollars in the prior month. Operating profit for that same fictional monthly period was 23 million US dollars. The scenario update, published on 2025-09-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-09-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-amzn-2025-10",
+      "company": "AMZN",
+      "url": "https://example.com/finnews-synthetic/demo-amzn-2025-10",
+      "title": "Fictional Amazon monthly update 10/2025",
+      "text": "Synthetic classroom scenario for AMZN; all figures and events are fictional. In the fictional Amazon scenario, revenue for the month ended 2025-10-09 was 150 million US dollars, compared with 142 million US dollars in the prior month. Operating profit for that same fictional monthly period was 24 million US dollars. The scenario update, published on 2025-10-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-10-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-amzn-2025-11",
+      "company": "AMZN",
+      "url": "https://example.com/finnews-synthetic/demo-amzn-2025-11",
+      "title": "Fictional Amazon monthly update 11/2025",
+      "text": "Synthetic classroom scenario for AMZN; all figures and events are fictional. In the fictional Amazon scenario, revenue for the month ended 2025-11-09 was 151 million US dollars, compared with 143 million US dollars in the prior month. Operating profit for that same fictional monthly period was 25 million US dollars. The scenario update, published on 2025-11-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-11-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-amzn-undated",
+      "company": "AMZN",
+      "url": "https://example.com/finnews-synthetic/demo-amzn-undated",
+      "title": "Fictional undated Amazon note",
+      "text": "Synthetic classroom scenario for AMZN; this passage is fictional and undated. An undated note claims that Amazon might increase deliveries. The note does not establish when an announcement or event occurred.",
+      "published_at": null,
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-googl-background",
+      "company": "GOOGL",
+      "url": "https://example.com/finnews-synthetic/demo-googl-background",
+      "title": "Fictional Alphabet background",
+      "text": "Synthetic classroom scenario for GOOGL; all figures are fictional. On June 15, 2025, the scenario's Alphabet board approved an annual research budget of 8 million US dollars. This background decision predates the later monthly operating updates.",
+      "published_at": "2025-06-15",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-googl-2025-07",
+      "company": "GOOGL",
+      "url": "https://example.com/finnews-synthetic/demo-googl-2025-07",
+      "title": "Fictional Alphabet monthly update 07/2025",
+      "text": "Synthetic classroom scenario for GOOGL; all figures and events are fictional. In the fictional Alphabet scenario, revenue for the month ended 2025-07-09 was 157 million US dollars, compared with 149 million US dollars in the prior month. Operating profit for that same fictional monthly period was 22 million US dollars. The scenario update, published on 2025-07-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-07-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-googl-2025-08",
+      "company": "GOOGL",
+      "url": "https://example.com/finnews-synthetic/demo-googl-2025-08",
+      "title": "Fictional Alphabet monthly update 08/2025",
+      "text": "Synthetic classroom scenario for GOOGL; all figures and events are fictional. In the fictional Alphabet scenario, revenue for the month ended 2025-08-09 was 158 million US dollars, compared with 150 million US dollars in the prior month. Operating profit for that same fictional monthly period was 23 million US dollars. The scenario update, published on 2025-08-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-08-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-googl-2025-09",
+      "company": "GOOGL",
+      "url": "https://example.com/finnews-synthetic/demo-googl-2025-09",
+      "title": "Fictional Alphabet monthly update 09/2025",
+      "text": "Synthetic classroom scenario for GOOGL; all figures and events are fictional. In the fictional Alphabet scenario, revenue for the month ended 2025-09-09 was 159 million US dollars, compared with 151 million US dollars in the prior month. Operating profit for that same fictional monthly period was 24 million US dollars. The scenario update, published on 2025-09-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-09-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-googl-2025-10",
+      "company": "GOOGL",
+      "url": "https://example.com/finnews-synthetic/demo-googl-2025-10",
+      "title": "Fictional Alphabet monthly update 10/2025",
+      "text": "Synthetic classroom scenario for GOOGL; all figures and events are fictional. In the fictional Alphabet scenario, revenue for the month ended 2025-10-09 was 160 million US dollars, compared with 152 million US dollars in the prior month. Operating profit for that same fictional monthly period was 25 million US dollars. The scenario update, published on 2025-10-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-10-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-googl-2025-11",
+      "company": "GOOGL",
+      "url": "https://example.com/finnews-synthetic/demo-googl-2025-11",
+      "title": "Fictional Alphabet monthly update 11/2025",
+      "text": "Synthetic classroom scenario for GOOGL; all figures and events are fictional. In the fictional Alphabet scenario, revenue for the month ended 2025-11-09 was 161 million US dollars, compared with 153 million US dollars in the prior month. Operating profit for that same fictional monthly period was 26 million US dollars. The scenario update, published on 2025-11-10, stated that a supplier delay could affect next month's deliveries.",
+      "published_at": "2025-11-10",
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    },
+    {
+      "id": "demo-googl-undated",
+      "company": "GOOGL",
+      "url": "https://example.com/finnews-synthetic/demo-googl-undated",
+      "title": "Fictional undated Alphabet note",
+      "text": "Synthetic classroom scenario for GOOGL; this passage is fictional and undated. An undated note claims that Alphabet might increase deliveries. The note does not establish when an announcement or event occurred.",
+      "published_at": null,
+      "retrieved_at": "2026-11-20T00:00:00+00:00",
+      "license": "MIT (self-authored fictional fixture)"
+    }
+  ],
+  "queries": [
+    {
+      "id": "aapl-dev-07",
+      "split": "dev",
+      "company": "AAPL",
+      "as_of": "2025-07-12",
+      "window_days": 7,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-aapl-2025-07",
+        "demo-aapl-background",
+        "demo-aapl-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-aapl-2025-07-fact-1",
+          "text": "In the fictional Apple scenario, revenue for the month ended 2025-07-09 was 117 million US dollars, compared with 109 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-aapl-2025-07",
+              "start": 77,
+              "end": 233
+            }
+          ]
+        },
+        {
+          "id": "demo-aapl-2025-07-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 18 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-aapl-2025-07",
+              "start": 234,
+              "end": 316
+            }
+          ]
+        },
+        {
+          "id": "demo-aapl-2025-07-fact-3",
+          "text": "The scenario update, published on 2025-07-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-aapl-2025-07",
+              "start": 317,
+              "end": 429
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "aapl-test-08",
+      "split": "test",
+      "company": "AAPL",
+      "as_of": "2025-08-12",
+      "window_days": 30,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-aapl-2025-08",
+        "demo-aapl-background",
+        "demo-aapl-undated",
+        "demo-aapl-2025-09"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-aapl-2025-08-fact-1",
+          "text": "In the fictional Apple scenario, revenue for the month ended 2025-08-09 was 118 million US dollars, compared with 110 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-aapl-2025-08",
+              "start": 77,
+              "end": 233
+            }
+          ]
+        },
+        {
+          "id": "demo-aapl-2025-08-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 19 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-aapl-2025-08",
+              "start": 234,
+              "end": 316
+            }
+          ]
+        },
+        {
+          "id": "demo-aapl-2025-08-fact-3",
+          "text": "The scenario update, published on 2025-08-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-aapl-2025-08",
+              "start": 317,
+              "end": 429
+            }
+          ]
+        }
+      ],
+      "temporal_stress": true
+    },
+    {
+      "id": "aapl-test-09",
+      "split": "test",
+      "company": "AAPL",
+      "as_of": "2025-09-12",
+      "window_days": 7,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-aapl-2025-09",
+        "demo-aapl-background",
+        "demo-aapl-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-aapl-2025-09-fact-1",
+          "text": "In the fictional Apple scenario, revenue for the month ended 2025-09-09 was 119 million US dollars, compared with 111 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-aapl-2025-09",
+              "start": 77,
+              "end": 233
+            }
+          ]
+        },
+        {
+          "id": "demo-aapl-2025-09-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 20 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-aapl-2025-09",
+              "start": 234,
+              "end": 316
+            }
+          ]
+        },
+        {
+          "id": "demo-aapl-2025-09-fact-3",
+          "text": "The scenario update, published on 2025-09-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-aapl-2025-09",
+              "start": 317,
+              "end": 429
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "aapl-test-10",
+      "split": "test",
+      "company": "AAPL",
+      "as_of": "2025-10-12",
+      "window_days": 30,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-aapl-2025-10",
+        "demo-aapl-background",
+        "demo-aapl-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-aapl-2025-10-fact-1",
+          "text": "In the fictional Apple scenario, revenue for the month ended 2025-10-09 was 120 million US dollars, compared with 112 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-aapl-2025-10",
+              "start": 77,
+              "end": 233
+            }
+          ]
+        },
+        {
+          "id": "demo-aapl-2025-10-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 21 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-aapl-2025-10",
+              "start": 234,
+              "end": 316
+            }
+          ]
+        },
+        {
+          "id": "demo-aapl-2025-10-fact-3",
+          "text": "The scenario update, published on 2025-10-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-aapl-2025-10",
+              "start": 317,
+              "end": 429
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "aapl-test-11",
+      "split": "test",
+      "company": "AAPL",
+      "as_of": "2025-11-12",
+      "window_days": 7,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-aapl-2025-11",
+        "demo-aapl-background",
+        "demo-aapl-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-aapl-2025-11-fact-1",
+          "text": "In the fictional Apple scenario, revenue for the month ended 2025-11-09 was 121 million US dollars, compared with 113 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-aapl-2025-11",
+              "start": 77,
+              "end": 233
+            }
+          ]
+        },
+        {
+          "id": "demo-aapl-2025-11-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 22 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-aapl-2025-11",
+              "start": 234,
+              "end": 316
+            }
+          ]
+        },
+        {
+          "id": "demo-aapl-2025-11-fact-3",
+          "text": "The scenario update, published on 2025-11-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-aapl-2025-11",
+              "start": 317,
+              "end": 429
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "msft-dev-07",
+      "split": "dev",
+      "company": "MSFT",
+      "as_of": "2025-07-12",
+      "window_days": 7,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-msft-2025-07",
+        "demo-msft-background",
+        "demo-msft-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-msft-2025-07-fact-1",
+          "text": "In the fictional Microsoft scenario, revenue for the month ended 2025-07-09 was 127 million US dollars, compared with 119 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-msft-2025-07",
+              "start": 77,
+              "end": 237
+            }
+          ]
+        },
+        {
+          "id": "demo-msft-2025-07-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 19 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-msft-2025-07",
+              "start": 238,
+              "end": 320
+            }
+          ]
+        },
+        {
+          "id": "demo-msft-2025-07-fact-3",
+          "text": "The scenario update, published on 2025-07-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-msft-2025-07",
+              "start": 321,
+              "end": 433
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "msft-test-08",
+      "split": "test",
+      "company": "MSFT",
+      "as_of": "2025-08-12",
+      "window_days": 30,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-msft-2025-08",
+        "demo-msft-background",
+        "demo-msft-undated",
+        "demo-msft-2025-09"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-msft-2025-08-fact-1",
+          "text": "In the fictional Microsoft scenario, revenue for the month ended 2025-08-09 was 128 million US dollars, compared with 120 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-msft-2025-08",
+              "start": 77,
+              "end": 237
+            }
+          ]
+        },
+        {
+          "id": "demo-msft-2025-08-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 20 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-msft-2025-08",
+              "start": 238,
+              "end": 320
+            }
+          ]
+        },
+        {
+          "id": "demo-msft-2025-08-fact-3",
+          "text": "The scenario update, published on 2025-08-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-msft-2025-08",
+              "start": 321,
+              "end": 433
+            }
+          ]
+        }
+      ],
+      "temporal_stress": true
+    },
+    {
+      "id": "msft-test-09",
+      "split": "test",
+      "company": "MSFT",
+      "as_of": "2025-09-12",
+      "window_days": 7,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-msft-2025-09",
+        "demo-msft-background",
+        "demo-msft-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-msft-2025-09-fact-1",
+          "text": "In the fictional Microsoft scenario, revenue for the month ended 2025-09-09 was 129 million US dollars, compared with 121 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-msft-2025-09",
+              "start": 77,
+              "end": 237
+            }
+          ]
+        },
+        {
+          "id": "demo-msft-2025-09-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 21 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-msft-2025-09",
+              "start": 238,
+              "end": 320
+            }
+          ]
+        },
+        {
+          "id": "demo-msft-2025-09-fact-3",
+          "text": "The scenario update, published on 2025-09-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-msft-2025-09",
+              "start": 321,
+              "end": 433
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "msft-test-10",
+      "split": "test",
+      "company": "MSFT",
+      "as_of": "2025-10-12",
+      "window_days": 30,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-msft-2025-10",
+        "demo-msft-background",
+        "demo-msft-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-msft-2025-10-fact-1",
+          "text": "In the fictional Microsoft scenario, revenue for the month ended 2025-10-09 was 130 million US dollars, compared with 122 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-msft-2025-10",
+              "start": 77,
+              "end": 237
+            }
+          ]
+        },
+        {
+          "id": "demo-msft-2025-10-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 22 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-msft-2025-10",
+              "start": 238,
+              "end": 320
+            }
+          ]
+        },
+        {
+          "id": "demo-msft-2025-10-fact-3",
+          "text": "The scenario update, published on 2025-10-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-msft-2025-10",
+              "start": 321,
+              "end": 433
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "msft-test-11",
+      "split": "test",
+      "company": "MSFT",
+      "as_of": "2025-11-12",
+      "window_days": 7,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-msft-2025-11",
+        "demo-msft-background",
+        "demo-msft-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-msft-2025-11-fact-1",
+          "text": "In the fictional Microsoft scenario, revenue for the month ended 2025-11-09 was 131 million US dollars, compared with 123 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-msft-2025-11",
+              "start": 77,
+              "end": 237
+            }
+          ]
+        },
+        {
+          "id": "demo-msft-2025-11-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 23 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-msft-2025-11",
+              "start": 238,
+              "end": 320
+            }
+          ]
+        },
+        {
+          "id": "demo-msft-2025-11-fact-3",
+          "text": "The scenario update, published on 2025-11-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-msft-2025-11",
+              "start": 321,
+              "end": 433
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "nvda-dev-07",
+      "split": "dev",
+      "company": "NVDA",
+      "as_of": "2025-07-12",
+      "window_days": 7,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-nvda-2025-07",
+        "demo-nvda-background",
+        "demo-nvda-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-nvda-2025-07-fact-1",
+          "text": "In the fictional NVIDIA scenario, revenue for the month ended 2025-07-09 was 137 million US dollars, compared with 129 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-nvda-2025-07",
+              "start": 77,
+              "end": 234
+            }
+          ]
+        },
+        {
+          "id": "demo-nvda-2025-07-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 20 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-nvda-2025-07",
+              "start": 235,
+              "end": 317
+            }
+          ]
+        },
+        {
+          "id": "demo-nvda-2025-07-fact-3",
+          "text": "The scenario update, published on 2025-07-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-nvda-2025-07",
+              "start": 318,
+              "end": 430
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "nvda-test-08",
+      "split": "test",
+      "company": "NVDA",
+      "as_of": "2025-08-12",
+      "window_days": 30,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-nvda-2025-08",
+        "demo-nvda-background",
+        "demo-nvda-undated",
+        "demo-nvda-2025-09"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-nvda-2025-08-fact-1",
+          "text": "In the fictional NVIDIA scenario, revenue for the month ended 2025-08-09 was 138 million US dollars, compared with 130 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-nvda-2025-08",
+              "start": 77,
+              "end": 234
+            }
+          ]
+        },
+        {
+          "id": "demo-nvda-2025-08-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 21 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-nvda-2025-08",
+              "start": 235,
+              "end": 317
+            }
+          ]
+        },
+        {
+          "id": "demo-nvda-2025-08-fact-3",
+          "text": "The scenario update, published on 2025-08-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-nvda-2025-08",
+              "start": 318,
+              "end": 430
+            }
+          ]
+        }
+      ],
+      "temporal_stress": true
+    },
+    {
+      "id": "nvda-test-09",
+      "split": "test",
+      "company": "NVDA",
+      "as_of": "2025-09-12",
+      "window_days": 7,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-nvda-2025-09",
+        "demo-nvda-background",
+        "demo-nvda-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-nvda-2025-09-fact-1",
+          "text": "In the fictional NVIDIA scenario, revenue for the month ended 2025-09-09 was 139 million US dollars, compared with 131 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-nvda-2025-09",
+              "start": 77,
+              "end": 234
+            }
+          ]
+        },
+        {
+          "id": "demo-nvda-2025-09-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 22 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-nvda-2025-09",
+              "start": 235,
+              "end": 317
+            }
+          ]
+        },
+        {
+          "id": "demo-nvda-2025-09-fact-3",
+          "text": "The scenario update, published on 2025-09-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-nvda-2025-09",
+              "start": 318,
+              "end": 430
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "nvda-test-10",
+      "split": "test",
+      "company": "NVDA",
+      "as_of": "2025-10-12",
+      "window_days": 30,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-nvda-2025-10",
+        "demo-nvda-background",
+        "demo-nvda-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-nvda-2025-10-fact-1",
+          "text": "In the fictional NVIDIA scenario, revenue for the month ended 2025-10-09 was 140 million US dollars, compared with 132 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-nvda-2025-10",
+              "start": 77,
+              "end": 234
+            }
+          ]
+        },
+        {
+          "id": "demo-nvda-2025-10-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 23 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-nvda-2025-10",
+              "start": 235,
+              "end": 317
+            }
+          ]
+        },
+        {
+          "id": "demo-nvda-2025-10-fact-3",
+          "text": "The scenario update, published on 2025-10-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-nvda-2025-10",
+              "start": 318,
+              "end": 430
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "nvda-test-11",
+      "split": "test",
+      "company": "NVDA",
+      "as_of": "2025-11-12",
+      "window_days": 7,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-nvda-2025-11",
+        "demo-nvda-background",
+        "demo-nvda-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-nvda-2025-11-fact-1",
+          "text": "In the fictional NVIDIA scenario, revenue for the month ended 2025-11-09 was 141 million US dollars, compared with 133 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-nvda-2025-11",
+              "start": 77,
+              "end": 234
+            }
+          ]
+        },
+        {
+          "id": "demo-nvda-2025-11-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 24 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-nvda-2025-11",
+              "start": 235,
+              "end": 317
+            }
+          ]
+        },
+        {
+          "id": "demo-nvda-2025-11-fact-3",
+          "text": "The scenario update, published on 2025-11-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-nvda-2025-11",
+              "start": 318,
+              "end": 430
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "amzn-dev-07",
+      "split": "dev",
+      "company": "AMZN",
+      "as_of": "2025-07-12",
+      "window_days": 7,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-amzn-2025-07",
+        "demo-amzn-background",
+        "demo-amzn-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-amzn-2025-07-fact-1",
+          "text": "In the fictional Amazon scenario, revenue for the month ended 2025-07-09 was 147 million US dollars, compared with 139 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-amzn-2025-07",
+              "start": 77,
+              "end": 234
+            }
+          ]
+        },
+        {
+          "id": "demo-amzn-2025-07-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 21 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-amzn-2025-07",
+              "start": 235,
+              "end": 317
+            }
+          ]
+        },
+        {
+          "id": "demo-amzn-2025-07-fact-3",
+          "text": "The scenario update, published on 2025-07-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-amzn-2025-07",
+              "start": 318,
+              "end": 430
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "amzn-test-08",
+      "split": "test",
+      "company": "AMZN",
+      "as_of": "2025-08-12",
+      "window_days": 30,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-amzn-2025-08",
+        "demo-amzn-background",
+        "demo-amzn-undated",
+        "demo-amzn-2025-09"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-amzn-2025-08-fact-1",
+          "text": "In the fictional Amazon scenario, revenue for the month ended 2025-08-09 was 148 million US dollars, compared with 140 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-amzn-2025-08",
+              "start": 77,
+              "end": 234
+            }
+          ]
+        },
+        {
+          "id": "demo-amzn-2025-08-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 22 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-amzn-2025-08",
+              "start": 235,
+              "end": 317
+            }
+          ]
+        },
+        {
+          "id": "demo-amzn-2025-08-fact-3",
+          "text": "The scenario update, published on 2025-08-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-amzn-2025-08",
+              "start": 318,
+              "end": 430
+            }
+          ]
+        }
+      ],
+      "temporal_stress": true
+    },
+    {
+      "id": "amzn-test-09",
+      "split": "test",
+      "company": "AMZN",
+      "as_of": "2025-09-12",
+      "window_days": 7,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-amzn-2025-09",
+        "demo-amzn-background",
+        "demo-amzn-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-amzn-2025-09-fact-1",
+          "text": "In the fictional Amazon scenario, revenue for the month ended 2025-09-09 was 149 million US dollars, compared with 141 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-amzn-2025-09",
+              "start": 77,
+              "end": 234
+            }
+          ]
+        },
+        {
+          "id": "demo-amzn-2025-09-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 23 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-amzn-2025-09",
+              "start": 235,
+              "end": 317
+            }
+          ]
+        },
+        {
+          "id": "demo-amzn-2025-09-fact-3",
+          "text": "The scenario update, published on 2025-09-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-amzn-2025-09",
+              "start": 318,
+              "end": 430
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "amzn-test-10",
+      "split": "test",
+      "company": "AMZN",
+      "as_of": "2025-10-12",
+      "window_days": 30,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-amzn-2025-10",
+        "demo-amzn-background",
+        "demo-amzn-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-amzn-2025-10-fact-1",
+          "text": "In the fictional Amazon scenario, revenue for the month ended 2025-10-09 was 150 million US dollars, compared with 142 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-amzn-2025-10",
+              "start": 77,
+              "end": 234
+            }
+          ]
+        },
+        {
+          "id": "demo-amzn-2025-10-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 24 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-amzn-2025-10",
+              "start": 235,
+              "end": 317
+            }
+          ]
+        },
+        {
+          "id": "demo-amzn-2025-10-fact-3",
+          "text": "The scenario update, published on 2025-10-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-amzn-2025-10",
+              "start": 318,
+              "end": 430
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "amzn-test-11",
+      "split": "test",
+      "company": "AMZN",
+      "as_of": "2025-11-12",
+      "window_days": 7,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-amzn-2025-11",
+        "demo-amzn-background",
+        "demo-amzn-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-amzn-2025-11-fact-1",
+          "text": "In the fictional Amazon scenario, revenue for the month ended 2025-11-09 was 151 million US dollars, compared with 143 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-amzn-2025-11",
+              "start": 77,
+              "end": 234
+            }
+          ]
+        },
+        {
+          "id": "demo-amzn-2025-11-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 25 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-amzn-2025-11",
+              "start": 235,
+              "end": 317
+            }
+          ]
+        },
+        {
+          "id": "demo-amzn-2025-11-fact-3",
+          "text": "The scenario update, published on 2025-11-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-amzn-2025-11",
+              "start": 318,
+              "end": 430
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "googl-dev-07",
+      "split": "dev",
+      "company": "GOOGL",
+      "as_of": "2025-07-12",
+      "window_days": 7,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-googl-2025-07",
+        "demo-googl-background",
+        "demo-googl-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-googl-2025-07-fact-1",
+          "text": "In the fictional Alphabet scenario, revenue for the month ended 2025-07-09 was 157 million US dollars, compared with 149 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-googl-2025-07",
+              "start": 78,
+              "end": 237
+            }
+          ]
+        },
+        {
+          "id": "demo-googl-2025-07-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 22 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-googl-2025-07",
+              "start": 238,
+              "end": 320
+            }
+          ]
+        },
+        {
+          "id": "demo-googl-2025-07-fact-3",
+          "text": "The scenario update, published on 2025-07-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-googl-2025-07",
+              "start": 321,
+              "end": 433
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "googl-test-08",
+      "split": "test",
+      "company": "GOOGL",
+      "as_of": "2025-08-12",
+      "window_days": 30,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-googl-2025-08",
+        "demo-googl-background",
+        "demo-googl-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-googl-2025-08-fact-1",
+          "text": "In the fictional Alphabet scenario, revenue for the month ended 2025-08-09 was 158 million US dollars, compared with 150 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-googl-2025-08",
+              "start": 78,
+              "end": 237
+            }
+          ]
+        },
+        {
+          "id": "demo-googl-2025-08-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 23 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-googl-2025-08",
+              "start": 238,
+              "end": 320
+            }
+          ]
+        },
+        {
+          "id": "demo-googl-2025-08-fact-3",
+          "text": "The scenario update, published on 2025-08-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-googl-2025-08",
+              "start": 321,
+              "end": 433
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "googl-test-09",
+      "split": "test",
+      "company": "GOOGL",
+      "as_of": "2025-09-12",
+      "window_days": 7,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-googl-2025-09",
+        "demo-googl-background",
+        "demo-googl-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-googl-2025-09-fact-1",
+          "text": "In the fictional Alphabet scenario, revenue for the month ended 2025-09-09 was 159 million US dollars, compared with 151 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-googl-2025-09",
+              "start": 78,
+              "end": 237
+            }
+          ]
+        },
+        {
+          "id": "demo-googl-2025-09-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 24 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-googl-2025-09",
+              "start": 238,
+              "end": 320
+            }
+          ]
+        },
+        {
+          "id": "demo-googl-2025-09-fact-3",
+          "text": "The scenario update, published on 2025-09-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-googl-2025-09",
+              "start": 321,
+              "end": 433
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "googl-test-10",
+      "split": "test",
+      "company": "GOOGL",
+      "as_of": "2025-10-12",
+      "window_days": 30,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-googl-2025-10",
+        "demo-googl-background",
+        "demo-googl-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-googl-2025-10-fact-1",
+          "text": "In the fictional Alphabet scenario, revenue for the month ended 2025-10-09 was 160 million US dollars, compared with 152 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-googl-2025-10",
+              "start": 78,
+              "end": 237
+            }
+          ]
+        },
+        {
+          "id": "demo-googl-2025-10-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 25 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-googl-2025-10",
+              "start": 238,
+              "end": 320
+            }
+          ]
+        },
+        {
+          "id": "demo-googl-2025-10-fact-3",
+          "text": "The scenario update, published on 2025-10-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-googl-2025-10",
+              "start": 321,
+              "end": 433
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    },
+    {
+      "id": "googl-test-11",
+      "split": "test",
+      "company": "GOOGL",
+      "as_of": "2025-11-12",
+      "window_days": 7,
+      "focus": "Summarize the fictional monthly revenue, operating profit, and disclosed delivery risk; retain units and reporting periods.",
+      "source_ids": [
+        "demo-googl-2025-11",
+        "demo-googl-background",
+        "demo-googl-undated"
+      ],
+      "gold_facts": [
+        {
+          "id": "demo-googl-2025-11-fact-1",
+          "text": "In the fictional Alphabet scenario, revenue for the month ended 2025-11-09 was 161 million US dollars, compared with 153 million US dollars in the prior month.",
+          "evidence": [
+            {
+              "source_id": "demo-googl-2025-11",
+              "start": 78,
+              "end": 237
+            }
+          ]
+        },
+        {
+          "id": "demo-googl-2025-11-fact-2",
+          "text": "Operating profit for that same fictional monthly period was 26 million US dollars.",
+          "evidence": [
+            {
+              "source_id": "demo-googl-2025-11",
+              "start": 238,
+              "end": 320
+            }
+          ]
+        },
+        {
+          "id": "demo-googl-2025-11-fact-3",
+          "text": "The scenario update, published on 2025-11-10, stated that a supplier delay could affect next month's deliveries.",
+          "evidence": [
+            {
+              "source_id": "demo-googl-2025-11",
+              "start": 321,
+              "end": 433
+            }
+          ]
+        }
+      ],
+      "temporal_stress": false
+    }
+  ]
+}

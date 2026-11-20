@@ -1,0 +1,8 @@
+.git
+.venv
+.env
+runtime
+data/private
+__pycache__
+.pytest_cache
+docs/*.pdf

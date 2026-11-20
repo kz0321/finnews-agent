@@ -1,0 +1,9 @@
+services:
+  finnews:
+    build: .
+    ports:
+      - "127.0.0.1:8501:8501"
+    volumes:
+      - ./runtime:/app/runtime
+    environment:
+      - FINNEWS_DATA_DIR=/app/runtime

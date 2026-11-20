@@ -1,0 +1,684 @@
+{
+  "schema_version": 1,
+  "dataset_kind": "real",
+  "status": "metadata_only_not_an_evaluated_corpus",
+  "description": "25 prespecified real-company research windows, 30 official HTML source seeds. Download originals privately, verify dates and annotate 2-4 gold facts before generation. No reference answers are supplied.",
+  "source_seeds": [
+    {
+      "id": "real-aapl-2024-02-01",
+      "company": "AAPL",
+      "url": "https://www.apple.com/newsroom/2024/02/apple-reports-first-quarter-results/",
+      "title": "AAPL official earnings release 2024-02-01",
+      "published_at": "2024-02-01",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-aapl-2024-05-02",
+      "company": "AAPL",
+      "url": "https://www.apple.com/newsroom/2024/05/apple-reports-second-quarter-results/",
+      "title": "AAPL official earnings release 2024-05-02",
+      "published_at": "2024-05-02",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-aapl-2024-08-01",
+      "company": "AAPL",
+      "url": "https://www.apple.com/newsroom/2024/08/apple-reports-third-quarter-results/",
+      "title": "AAPL official earnings release 2024-08-01",
+      "published_at": "2024-08-01",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-aapl-2024-10-31",
+      "company": "AAPL",
+      "url": "https://www.apple.com/newsroom/2024/10/apple-reports-fourth-quarter-results/",
+      "title": "AAPL official earnings release 2024-10-31",
+      "published_at": "2024-10-31",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-aapl-2025-01-30",
+      "company": "AAPL",
+      "url": "https://www.apple.com/newsroom/2025/01/apple-reports-first-quarter-results/",
+      "title": "AAPL official earnings release 2025-01-30",
+      "published_at": "2025-01-30",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-msft-2024-01-30",
+      "company": "MSFT",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2024-Q2/press-release-webcast",
+      "title": "MSFT official earnings release 2024-01-30",
+      "published_at": "2024-01-30",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-msft-2024-01-30-performance",
+      "company": "MSFT",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2024-Q2/performance",
+      "title": "Microsoft performance and outlook 2024-01-30",
+      "published_at": "2024-01-30",
+      "date_basis": "Associated fiscal-quarter earnings page; review before evaluation",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-msft-2024-04-25",
+      "company": "MSFT",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2024-Q3/press-release-webcast",
+      "title": "MSFT official earnings release 2024-04-25",
+      "published_at": "2024-04-25",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-msft-2024-04-25-performance",
+      "company": "MSFT",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2024-Q3/performance",
+      "title": "Microsoft performance and outlook 2024-04-25",
+      "published_at": "2024-04-25",
+      "date_basis": "Associated fiscal-quarter earnings page; review before evaluation",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-msft-2024-07-30",
+      "company": "MSFT",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2024-Q4/press-release-webcast",
+      "title": "MSFT official earnings release 2024-07-30",
+      "published_at": "2024-07-30",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-msft-2024-07-30-performance",
+      "company": "MSFT",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2024-Q4/performance",
+      "title": "Microsoft performance and outlook 2024-07-30",
+      "published_at": "2024-07-30",
+      "date_basis": "Associated fiscal-quarter earnings page; review before evaluation",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-msft-2024-10-30",
+      "company": "MSFT",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q1/press-release-webcast",
+      "title": "MSFT official earnings release 2024-10-30",
+      "published_at": "2024-10-30",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-msft-2024-10-30-performance",
+      "company": "MSFT",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q1/performance",
+      "title": "Microsoft performance and outlook 2024-10-30",
+      "published_at": "2024-10-30",
+      "date_basis": "Associated fiscal-quarter earnings page; review before evaluation",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-msft-2025-01-29",
+      "company": "MSFT",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q2/press-release-webcast",
+      "title": "MSFT official earnings release 2025-01-29",
+      "published_at": "2025-01-29",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-msft-2025-01-29-performance",
+      "company": "MSFT",
+      "url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q2/performance",
+      "title": "Microsoft performance and outlook 2025-01-29",
+      "published_at": "2025-01-29",
+      "date_basis": "Associated fiscal-quarter earnings page; review before evaluation",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-nvda-2024-02-21",
+      "company": "NVDA",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2024",
+      "title": "NVDA official earnings release 2024-02-21",
+      "published_at": "2024-02-21",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-nvda-2024-05-22",
+      "company": "NVDA",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2025",
+      "title": "NVDA official earnings release 2024-05-22",
+      "published_at": "2024-05-22",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-nvda-2024-08-28",
+      "company": "NVDA",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2025",
+      "title": "NVDA official earnings release 2024-08-28",
+      "published_at": "2024-08-28",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-nvda-2024-11-20",
+      "company": "NVDA",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2025",
+      "title": "NVDA official earnings release 2024-11-20",
+      "published_at": "2024-11-20",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-nvda-2025-02-26",
+      "company": "NVDA",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2025",
+      "title": "NVDA official earnings release 2025-02-26",
+      "published_at": "2025-02-26",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-amzn-2024-02-01",
+      "company": "AMZN",
+      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2024/Amazon-com-Announces-Fourth-Quarter-Results/default.aspx",
+      "title": "AMZN official earnings release 2024-02-01",
+      "published_at": "2024-02-01",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-amzn-2024-04-30",
+      "company": "AMZN",
+      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2024/Amazon-com-Announces-First-Quarter-Results-68b9258cd/default.aspx",
+      "title": "AMZN official earnings release 2024-04-30",
+      "published_at": "2024-04-30",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-amzn-2024-08-01",
+      "company": "AMZN",
+      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2024/Amazon-com-Announces-Second-Quarter-Results/default.aspx",
+      "title": "AMZN official earnings release 2024-08-01",
+      "published_at": "2024-08-01",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-amzn-2024-10-31",
+      "company": "AMZN",
+      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2024/Amazon-com-Announces-Third-Quarter-Results/default.aspx",
+      "title": "AMZN official earnings release 2024-10-31",
+      "published_at": "2024-10-31",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-amzn-2025-02-06",
+      "company": "AMZN",
+      "url": "https://ir.aboutamazon.com/news-release/news-release-details/2025/Amazon-com-Announces-Fourth-Quarter-Results/default.aspx",
+      "title": "AMZN official earnings release 2025-02-06",
+      "published_at": "2025-02-06",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-googl-2024-01-30",
+      "company": "GOOGL",
+      "url": "https://abc.xyz/investor/events/event-details/2024/2023-q4-earnings-call/",
+      "title": "GOOGL official earnings call 2024-01-30",
+      "published_at": "2024-01-30",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-googl-2024-04-25",
+      "company": "GOOGL",
+      "url": "https://abc.xyz/investor/events/event-details/2024/2024-q1-earnings-call/",
+      "title": "GOOGL official earnings call 2024-04-25",
+      "published_at": "2024-04-25",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-googl-2024-07-23",
+      "company": "GOOGL",
+      "url": "https://abc.xyz/investor/events/event-details/2024/2024-Q2-Earnings-Call/",
+      "title": "GOOGL official earnings call 2024-07-23",
+      "published_at": "2024-07-23",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-googl-2024-10-29",
+      "company": "GOOGL",
+      "url": "https://abc.xyz/investor/events/event-details/2024/2024-Q3-Earnings-Call/",
+      "title": "GOOGL official earnings call 2024-10-29",
+      "published_at": "2024-10-29",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    },
+    {
+      "id": "real-googl-2025-02-04",
+      "company": "GOOGL",
+      "url": "https://abc.xyz/investor/events/event-details/2025/2024-Q4-Earnings-Call/",
+      "title": "GOOGL official earnings call 2025-02-04",
+      "published_at": "2025-02-04",
+      "date_basis": "Dated official release/event; must be reviewed against downloaded original",
+      "status": "seed_not_collected"
+    }
+  ],
+  "queries": [
+    {
+      "id": "real-aapl-dev-1",
+      "split": "dev",
+      "company": "AAPL",
+      "as_of": "2024-02-03",
+      "window_days": 7,
+      "focus": "Summarize reported revenue, operating performance and disclosed business risks; distinguish the reporting period from the release date.",
+      "source_ids": [
+        "real-aapl-2024-02-01"
+      ],
+      "primary_source_id": "real-aapl-2024-02-01",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-aapl-test-2",
+      "split": "test",
+      "company": "AAPL",
+      "as_of": "2024-05-04",
+      "window_days": 30,
+      "focus": "Explain the reported revenue movement and management outlook, retaining units and differentiating forecasts from realized results.",
+      "source_ids": [
+        "real-aapl-2024-05-02",
+        "real-aapl-2024-02-01",
+        "real-aapl-2024-08-01"
+      ],
+      "primary_source_id": "real-aapl-2024-05-02",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": true
+    },
+    {
+      "id": "real-aapl-test-3",
+      "split": "test",
+      "company": "AAPL",
+      "as_of": "2024-08-03",
+      "window_days": 7,
+      "focus": "Summarize key business-segment performance and one material announcement; distinguish quarterly from year-to-date figures.",
+      "source_ids": [
+        "real-aapl-2024-08-01",
+        "real-aapl-2024-05-02"
+      ],
+      "primary_source_id": "real-aapl-2024-08-01",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-aapl-test-4",
+      "split": "test",
+      "company": "AAPL",
+      "as_of": "2024-11-02",
+      "window_days": 30,
+      "focus": "Summarize profitability, cash returns or investment priorities, and any explicitly disclosed uncertainty.",
+      "source_ids": [
+        "real-aapl-2024-10-31",
+        "real-aapl-2024-08-01"
+      ],
+      "primary_source_id": "real-aapl-2024-10-31",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-aapl-test-5",
+      "split": "test",
+      "company": "AAPL",
+      "as_of": "2025-02-01",
+      "window_days": 7,
+      "focus": "Summarize the most recent earnings and guidance, distinguishing annual totals from quarterly amounts and dated background.",
+      "source_ids": [
+        "real-aapl-2025-01-30",
+        "real-aapl-2024-10-31"
+      ],
+      "primary_source_id": "real-aapl-2025-01-30",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-msft-dev-1",
+      "split": "dev",
+      "company": "MSFT",
+      "as_of": "2024-02-01",
+      "window_days": 7,
+      "focus": "Summarize reported revenue, operating performance and disclosed business risks; distinguish the reporting period from the release date.",
+      "source_ids": [
+        "real-msft-2024-01-30",
+        "real-msft-2024-01-30-performance"
+      ],
+      "primary_source_id": "real-msft-2024-01-30",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-msft-test-2",
+      "split": "test",
+      "company": "MSFT",
+      "as_of": "2024-04-27",
+      "window_days": 30,
+      "focus": "Explain the reported revenue movement and management outlook, retaining units and differentiating forecasts from realized results.",
+      "source_ids": [
+        "real-msft-2024-04-25",
+        "real-msft-2024-01-30",
+        "real-msft-2024-04-25-performance",
+        "real-msft-2024-07-30"
+      ],
+      "primary_source_id": "real-msft-2024-04-25",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": true
+    },
+    {
+      "id": "real-msft-test-3",
+      "split": "test",
+      "company": "MSFT",
+      "as_of": "2024-08-01",
+      "window_days": 7,
+      "focus": "Summarize key business-segment performance and one material announcement; distinguish quarterly from year-to-date figures.",
+      "source_ids": [
+        "real-msft-2024-07-30",
+        "real-msft-2024-04-25",
+        "real-msft-2024-07-30-performance"
+      ],
+      "primary_source_id": "real-msft-2024-07-30",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-msft-test-4",
+      "split": "test",
+      "company": "MSFT",
+      "as_of": "2024-11-01",
+      "window_days": 30,
+      "focus": "Summarize profitability, cash returns or investment priorities, and any explicitly disclosed uncertainty.",
+      "source_ids": [
+        "real-msft-2024-10-30",
+        "real-msft-2024-07-30",
+        "real-msft-2024-10-30-performance"
+      ],
+      "primary_source_id": "real-msft-2024-10-30",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-msft-test-5",
+      "split": "test",
+      "company": "MSFT",
+      "as_of": "2025-01-31",
+      "window_days": 7,
+      "focus": "Summarize the most recent earnings and guidance, distinguishing annual totals from quarterly amounts and dated background.",
+      "source_ids": [
+        "real-msft-2025-01-29",
+        "real-msft-2024-10-30",
+        "real-msft-2025-01-29-performance"
+      ],
+      "primary_source_id": "real-msft-2025-01-29",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-nvda-dev-1",
+      "split": "dev",
+      "company": "NVDA",
+      "as_of": "2024-02-23",
+      "window_days": 7,
+      "focus": "Summarize reported revenue, operating performance and disclosed business risks; distinguish the reporting period from the release date.",
+      "source_ids": [
+        "real-nvda-2024-02-21"
+      ],
+      "primary_source_id": "real-nvda-2024-02-21",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-nvda-test-2",
+      "split": "test",
+      "company": "NVDA",
+      "as_of": "2024-05-24",
+      "window_days": 30,
+      "focus": "Explain the reported revenue movement and management outlook, retaining units and differentiating forecasts from realized results.",
+      "source_ids": [
+        "real-nvda-2024-05-22",
+        "real-nvda-2024-02-21",
+        "real-nvda-2024-08-28"
+      ],
+      "primary_source_id": "real-nvda-2024-05-22",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": true
+    },
+    {
+      "id": "real-nvda-test-3",
+      "split": "test",
+      "company": "NVDA",
+      "as_of": "2024-08-30",
+      "window_days": 7,
+      "focus": "Summarize key business-segment performance and one material announcement; distinguish quarterly from year-to-date figures.",
+      "source_ids": [
+        "real-nvda-2024-08-28",
+        "real-nvda-2024-05-22"
+      ],
+      "primary_source_id": "real-nvda-2024-08-28",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-nvda-test-4",
+      "split": "test",
+      "company": "NVDA",
+      "as_of": "2024-11-22",
+      "window_days": 30,
+      "focus": "Summarize profitability, cash returns or investment priorities, and any explicitly disclosed uncertainty.",
+      "source_ids": [
+        "real-nvda-2024-11-20",
+        "real-nvda-2024-08-28"
+      ],
+      "primary_source_id": "real-nvda-2024-11-20",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-nvda-test-5",
+      "split": "test",
+      "company": "NVDA",
+      "as_of": "2025-02-28",
+      "window_days": 7,
+      "focus": "Summarize the most recent earnings and guidance, distinguishing annual totals from quarterly amounts and dated background.",
+      "source_ids": [
+        "real-nvda-2025-02-26",
+        "real-nvda-2024-11-20"
+      ],
+      "primary_source_id": "real-nvda-2025-02-26",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-amzn-dev-1",
+      "split": "dev",
+      "company": "AMZN",
+      "as_of": "2024-02-03",
+      "window_days": 7,
+      "focus": "Summarize reported revenue, operating performance and disclosed business risks; distinguish the reporting period from the release date.",
+      "source_ids": [
+        "real-amzn-2024-02-01"
+      ],
+      "primary_source_id": "real-amzn-2024-02-01",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-amzn-test-2",
+      "split": "test",
+      "company": "AMZN",
+      "as_of": "2024-05-02",
+      "window_days": 30,
+      "focus": "Explain the reported revenue movement and management outlook, retaining units and differentiating forecasts from realized results.",
+      "source_ids": [
+        "real-amzn-2024-04-30",
+        "real-amzn-2024-02-01",
+        "real-amzn-2024-08-01"
+      ],
+      "primary_source_id": "real-amzn-2024-04-30",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": true
+    },
+    {
+      "id": "real-amzn-test-3",
+      "split": "test",
+      "company": "AMZN",
+      "as_of": "2024-08-03",
+      "window_days": 7,
+      "focus": "Summarize key business-segment performance and one material announcement; distinguish quarterly from year-to-date figures.",
+      "source_ids": [
+        "real-amzn-2024-08-01",
+        "real-amzn-2024-04-30"
+      ],
+      "primary_source_id": "real-amzn-2024-08-01",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-amzn-test-4",
+      "split": "test",
+      "company": "AMZN",
+      "as_of": "2024-11-02",
+      "window_days": 30,
+      "focus": "Summarize profitability, cash returns or investment priorities, and any explicitly disclosed uncertainty.",
+      "source_ids": [
+        "real-amzn-2024-10-31",
+        "real-amzn-2024-08-01"
+      ],
+      "primary_source_id": "real-amzn-2024-10-31",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-amzn-test-5",
+      "split": "test",
+      "company": "AMZN",
+      "as_of": "2025-02-08",
+      "window_days": 7,
+      "focus": "Summarize the most recent earnings and guidance, distinguishing annual totals from quarterly amounts and dated background.",
+      "source_ids": [
+        "real-amzn-2025-02-06",
+        "real-amzn-2024-10-31"
+      ],
+      "primary_source_id": "real-amzn-2025-02-06",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-googl-dev-1",
+      "split": "dev",
+      "company": "GOOGL",
+      "as_of": "2024-02-01",
+      "window_days": 7,
+      "focus": "Summarize reported revenue, operating performance and disclosed business risks; distinguish the reporting period from the release date.",
+      "source_ids": [
+        "real-googl-2024-01-30"
+      ],
+      "primary_source_id": "real-googl-2024-01-30",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-googl-test-2",
+      "split": "test",
+      "company": "GOOGL",
+      "as_of": "2024-04-27",
+      "window_days": 30,
+      "focus": "Explain the reported revenue movement and management outlook, retaining units and differentiating forecasts from realized results.",
+      "source_ids": [
+        "real-googl-2024-04-25",
+        "real-googl-2024-01-30"
+      ],
+      "primary_source_id": "real-googl-2024-04-25",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-googl-test-3",
+      "split": "test",
+      "company": "GOOGL",
+      "as_of": "2024-07-25",
+      "window_days": 7,
+      "focus": "Summarize key business-segment performance and one material announcement; distinguish quarterly from year-to-date figures.",
+      "source_ids": [
+        "real-googl-2024-07-23",
+        "real-googl-2024-04-25"
+      ],
+      "primary_source_id": "real-googl-2024-07-23",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-googl-test-4",
+      "split": "test",
+      "company": "GOOGL",
+      "as_of": "2024-10-31",
+      "window_days": 30,
+      "focus": "Summarize profitability, cash returns or investment priorities, and any explicitly disclosed uncertainty.",
+      "source_ids": [
+        "real-googl-2024-10-29",
+        "real-googl-2024-07-23"
+      ],
+      "primary_source_id": "real-googl-2024-10-29",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    },
+    {
+      "id": "real-googl-test-5",
+      "split": "test",
+      "company": "GOOGL",
+      "as_of": "2025-02-06",
+      "window_days": 7,
+      "focus": "Summarize the most recent earnings and guidance, distinguishing annual totals from quarterly amounts and dated background.",
+      "source_ids": [
+        "real-googl-2025-02-04",
+        "real-googl-2024-10-29"
+      ],
+      "primary_source_id": "real-googl-2025-02-04",
+      "gold_facts": [],
+      "annotation_status": "needs_human_review",
+      "temporal_stress": false
+    }
+  ]
+}

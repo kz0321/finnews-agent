@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-20",
+  "python": "3.12.15",
+  "platform": "Windows",
+  "live_dependency_tests": {
+    "tests": 52,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "seconds": 7.734
+  },
+  "base_dependency_tests": {
+    "tests": 52,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 3,
+    "seconds": 6.049
+  },
+  "lint": "ruff passed",
+  "synthetic_batch": {
+    "dataset_kind": "synthetic_demo",
+    "queries": 20,
+    "runs": 60,
+    "status_counts": {
+      "completed": 20,
+      "unverified": 40,
+      "failed": 0
+    },
+    "human_quality_scores": null,
+    "note": "Synthetic runs validate software only. No factual-quality claim without human annotation."
+  },
+  "real_source_downloads": {
+    "requested_documents": 30,
+    "downloaded_documents": 30,
+    "prepared_queries": 25,
+    "human_reviewed_queries": 0,
+    "gold_facts": 0
+  },
+  "real_encoder_smoke": {
+    "kind": "real_encoder_smoke_on_synthetic_passages",
+    "evaluation_result": false,
+    "encoder": "sentence-transformers/all-MiniLM-L6-v2@1110a243fdf4706b3f48f1d95db1a4f5529b4d41:max256:normalized:cpu",
+    "device": "cpu",
+    "shape": [
+      2,
+      384
+    ],
+    "query": "manufacturing disruption and shipping delays",
+    "expected_first_source": "smoke_risk",
+    "observed_first_source": "smoke_risk",
+    "max_chunk_tokens": 19,
+    "input_tokens": [
+      23,
+      22
+    ],
+    "oversize_input_rejected": true,
+    "hosted_model_calls": 0,
+    "notes": [
+      "Actual pinned MiniLM model loaded and encoded locally.",
+      "Passages are synthetic test fixtures, not real financial evaluation data.",
+      "Windows symlink warning was non-fatal; regular file cache was used."
+    ]
+  },
+  "real_source_retrieval_smoke": {
+    "kind": "real_source_retrieval_smoke_not_generation_or_benchmark",
+    "query": {
+      "id": "real-aapl-dev-1",
+      "company": "AAPL",
+      "as_of": "2024-02-03",
+      "window_days": 7,
+      "focus": "Summarize reported revenue, operating performance and disclosed business risks; distinguish the reporting period from the release date.",
+      "source_ids": [
+        "real-aapl-2024-02-01"
+      ]
+    },
+    "encoder": "sentence-transformers/all-MiniLM-L6-v2@1110a243fdf4706b3f48f1d95db1a4f5529b4d41:max256:normalized:cpu",
+    "source_count": 1,
+    "chunks": 8,
+    "selected_count": 3,
+    "context_proxy_tokens": 790,
+    "source_dates_reviewed": false,
+    "selected_ids": [
+      "c_79e7a425df8f1c577f8f",
+      "c_c5f124733c2adc2d4da7",
+      "c_c5e50a52b2fa9cd0c031"
+    ],
+    "source_urls": [
+      "https://www.apple.com/newsroom/2024/02/apple-reports-first-quarter-results/"
+    ],
+    "events": [
+      {
+        "mode": "hybrid",
+        "index_seconds": 0.1421475000006467,
+        "query_embedding_seconds": 0.11657460000060382,
+        "lexical_seconds": 0.0019302999990031822,
+        "selection_seconds": 39.87195790000078,
+        "total_seconds": 40.13277019999987,
+        "eligible_chunks": 8,
+        "selected_chunks": 3,
+        "cached_vectors": 0,
+        "encoded_vectors": 8
+      }
+    ]
+  },
+  "paid_deepseek_calls_tested": false,
+  "live_tavily_workflow_tested": false,
+  "human_quality_evaluation_completed": false,
+  "docker_executed": false
+}

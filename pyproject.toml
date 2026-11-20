@@ -1,0 +1,38 @@
+[build-system]
+requires = ["hatchling==1.27.0"]
+build-backend = "hatchling.build"
+
+[project]
+name = "finnews-agent"
+version = "0.1.0"
+description = "Auditable financial news research with GPT Researcher, hybrid retrieval and bounded recovery"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+license = "MIT"
+authors = [{name="Xu Kaizhi"}, {name="Liu Hangxu"}, {name="Zhang Yiqun"}, {name="Fu Xuanyu"}, {name="Guo Xinrui"}]
+dependencies = [
+  "pydantic==2.12.4", "numpy==2.2.6", "rank-bm25==0.2.2",
+  "tiktoken==0.12.0", "python-dotenv==1.2.1", "httpx==0.28.1",
+  "streamlit==1.51.0", "beautifulsoup4==4.14.2",
+]
+
+[project.optional-dependencies]
+live = ["gpt-researcher==0.17.0", "sentence-transformers==5.1.2"]
+dev = ["pytest==8.4.2", "pytest-asyncio==1.2.0", "ruff==0.14.5"]
+
+[project.scripts]
+finnews = "finnews.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/finnews"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+
+[tool.ruff]
+line-length = 110
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F"]
